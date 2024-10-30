@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p style="font-size: 1.5em;">Building brain-inspired models to understand visual cognition.</p>
+subtitle: <p style="font-size:115%;">Building brain-inspired models to understand visual cognition.</p>
 
 profile:
   align: right
