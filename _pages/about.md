@@ -26,5 +26,5 @@ To answer these questions, I combine computational modeling with behavioral and 
 I am currently a postdoctoral fellow at MIT's [McGovern Institute for Brain Research](https://mcgovern.mit.edu/) in [Prof. James DiCarlo's group](https://dicarlolab.mit.edu/).
 My work is funded by a DFG Walter-Benjamin Fellowship.
 
-In my PhD research at the University of Amsterdam, I integrated concepts and methods from Psychology, Neuroscience and Artificial Intelligence to better understand different forms of cognitive modulation such as selective attention, arousal and past sensory states and their effects on visual processing in the brain. I was advised by Dr. H. Steven Scholte, Prof. Sander Bohté and Prof. Heleen Slagter.
+In my PhD research at the University of Amsterdam, I integrated concepts and methods from Psychology, Neuroscience and Artificial Intelligence to better understand different forms of cognitive modulation such as selective attention, arousal and past sensory states and their effects on visual processing in the brain. I was fortunate to be advised by Dr. H. Steven Scholte, Prof. Sander Bohté and Prof. Heleen Slagter.
 
