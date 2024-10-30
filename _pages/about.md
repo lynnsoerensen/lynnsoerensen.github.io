@@ -15,13 +15,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a cognitive computational neuroscientist with a fascination for how our brains make sense of the visual world. 
+I am a Cognitive Computational Neuroscientist with a fascination for how our brains make sense of the visual world. 
 I am passionate about questions such as: 
 - *How* do we perceive objects in a world in constant flux? 
 - *How* do our brains deal with a dynamic visual world during object recognition? 
 - *How* does our experience with objects shape our brains and behavior?
 
-To answer these questions, I combine computational models (how?) with behavioral and neuroimaging experiments (what, where and when?).
+To answer these questions, I combine computational modeling with behavioral and neuroimaging experiments.
 
 I am currently a postdoctoral fellow at MIT's [McGovern Institute for Brain Research](https://mcgovern.mit.edu/) in [Prof. James DiCarlo's group](https://dicarlolab.mit.edu/).
 My work is funded by a DFG Walter-Benjamin Fellowship.
